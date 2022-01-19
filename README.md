@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuNina12
 - 👀 I’m interested in sowtware development.
-- 🌱 I’m currently learning frontent.
+- 🌱 I’m currently learning frontend.
 - 📫 You can reach me on my e-mail: duvnjak.nikolina@gmail.com
 
 <!---
